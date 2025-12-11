@@ -85,3 +85,7 @@
     - ability
     - abilities
     def: a discrete action that characters can take during combat that supplement the actions that all characters can take.
+
+- name:
+    - the author
+    def: the person who wrote Last Odyssey.  if you're interested in her thoughts or her progress on making Last Odyssey, you can contact her at @selinedijon on Bluesky.
