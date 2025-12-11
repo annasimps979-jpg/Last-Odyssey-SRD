@@ -31,3 +31,17 @@ Advancements by Rank:
 **Rank 9:** You gain +1 Magical Accuracy.
 
 **Capstone:** Target Acquired. Multi. Cost: 1 Anima, 2 AP.  Use Scan on all enemies on the battlefield.  Every affected enemy will be Scanned for the remainder of the battle unless the effect is removed by an ability.
+
+Talents:
+
+**Striker:** Sniper.  When you use an item that does physical damage to an enemy, you may add your Physical Attack to its base damage.
+
+**Caster:** Magic Ammo.  When you use an item that does magical damage to an enemy, you may add your Magical Attack to its base damage.
+
+**Healer:** First Aid.  When you use an item that heals an ally, you may add your Magical Attack to its base healing.
+
+**Defender:** Optimize Defenses.  If you use the Scan ability on an ally, it inflicts the Optimized status effect on them.  The next physical attack, magical attack, or status-inflicting ability that hits them will ignore any of their weaknesses.  The Optimized status effect is then removed.
+
+**Support:** Targeting Systems.  When you use Scan on an ally, they gain a temporary +5 to their Physical, Magical, and Status Accuracies that does not count on the bonus tracker until the end of their next turn.
+
+**Saboteur:** Monkeywrench.  When you use an item that inflicts a status effect on an enemy, you may subtract your Status Accuracy from the result on the hit die to determine if they are hit.
