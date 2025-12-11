@@ -1,7 +1,87 @@
 - name:
     - dice
     - die
-  def: a thing you roll
+  def: a many-sided, solid object that can be rolled across any flat surface.  in many FRPs, including Last Odyssey, polyhedral dice 
 
 - name: GitHub
-  def: "[a website](github.com)"
+  def: "[a website for hosting ongoing software projects](github.com)"
+
+- name:
+    - player
+    - players
+    def: a participant who controls a fixed number of characters within the setting.  In Last Odyssey, each player controls one of the story's protagonists.
+
+- name:
+    - player character
+    - player characters
+    - PC
+    - PCs
+    def: a character controlled by one of the players.  In Last Odyssey, each player character also has a set of statistics unique to that character that determine (along with narrative context) the consequences of the actions they take during play.
+
+- name:
+    - combat
+    def: The specialized set of rules in Last Odyssey that apply when the players engage in protracted violence against an opposing party, which can be found in the Combat Rules section.
+
+- name:
+    - non-player character
+    - non-player characters
+    - NPC
+    - NPCs
+    def: any character in the narrative who is not controlled by a player.  Some NPCs are also capable of participating in combat.
+
+- name:
+    - Game Master
+    - game master
+    - GM
+    - GMs
+    def: the person or people responsible for describing the world that the PCs inhabit and the behavior of any NPCs.  In Last Odyssey, one person is designated as the GM at a time.
+
+- name:
+    - facilitator
+    - facilitators
+    def: the person, group, or organization responsible for coordinating the logistics of an FRP.  In at-home games, this role is often taken on by the GM or one of the players, and is sometimes shared among the entire group.  Other times, the facilitator might be a game store, a convention, a parent or guardian, a forum administrator, or a volunteer tabletop gaming society.  All FRPs require a facilitator.
+
+- name:
+    - session
+    - sessions
+    def: a continuous length of time in which Last Odyssey is played.  When a session ends is up to the needs of the group, but a typical session of Last Odyssey will last at least an hour and a half, and usually will take longer.  In contemporary terms, each session of an FRP can be thought of like a single episode of television.
+
+- name:
+    - adventure
+    - adventures
+    def: one or more sessions that are tied together by an overarching narrative.  An adventure is also the smallest unit of playtime that Last Odyssey is built to handle.
+
+- name: 
+    - campaign
+    - campaigns
+    def: a string of adventures featuring a shared set of PCs, a shared world, and an overarching narrative of some kind.  Last Odyssey is at its best when used as a way to run campaigns.
+
+- name: 
+    - battle
+    - battles
+    def: a discrete instance of combat.
+
+- name:
+    - character
+    - characters
+    def: any agent that can act during a battle.  Can also refer to any character within the narrative, depending on context.
+
+- name:
+    - attribute
+    - attributes
+    def: a number from one to ten that represents how strong a character is in a general domain of aptitudes.
+
+- name:
+    - statistic
+    - statistics
+    def: a number that represents a specific capability in combat.
+
+- name:
+    - action
+    - actions
+    def: a single, discrete thing that a character does during play.  Depending on what phase of gameplay you are in, characters are allowed to take different actions.
+
+- name:
+    - ability
+    - abilities
+    def: a discrete action that characters can take during combat that supplement the actions that all characters can take.
