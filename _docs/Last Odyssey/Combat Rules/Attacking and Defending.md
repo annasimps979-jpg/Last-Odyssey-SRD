@@ -29,3 +29,5 @@ Every ability that you use has a type that specifies its target.  They are as fo
 *  Passive.  This ability cannot be used as an action, but instead changes something about the way the character behaves in combat.
 *  Multi.  This ability targets more than one character on the battlefield.
 *  Reaction.  This ability cannot be used as an action, but triggers automatically when certain conditions are met.
+
+If players feel squeamish about murdering their opponents, the GM could give them the option to try to pull their punches in battle.  To do so, a player character must declare that they are executing an attack meant to knock an enemy out rather than kill.  The damage of the attack, if it hits, is calculated as though they had rolled a 1 on their attack roll.  If the enemy is downed, they will be temporarily incapacitated instead of killed.
