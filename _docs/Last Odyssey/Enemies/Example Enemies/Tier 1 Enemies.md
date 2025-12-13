@@ -27,3 +27,12 @@ Pincers.  Melee.  Makes a basic physical attack.
 Autocannon.  Special.  Cost: 1 AP.  Makes a colorless, ranged physical attack against a single target.  The Spider Drone may only use this ability once per battle.
 Disarm.  Melee.  Cost: 1 AP.  Makes a colorless physical attack that, if successful, causes the target to drop their weapon.  The target must then spend 1 AP on its turn to pick it back up.
 Item Table: Mundane Buff Evasion, Mundane Scan, 10 cr.
+
+Lieutenant (Elite 1, Human, Ice)
+Statistics: HP 20/Shell 5, Initiative 5, Mana 15, Physical Attack 4, Magical Attack 2, Physical Defense 3, Magical Defense 1, Evasion 0, Resistance 6, Physical Accuracy 4, Magical Accuracy 0, Status Accuracy 0.
+Fists.  Melee.  Makes a basic colorless physical attack.
+Discipline.  Ally.  Costs 5 MP.  Buffs the Resistance of a single ally.
+Knock Some Sense Into Em.  Ally.  Does 1 damage to a single ally, and restores 5 MP as a result.
+Faithful.  Passive.  If there is a Captain on the battlefield and they are hit by an attack that would otherwise down them, the Lieutenant is hit by the attack instead.
+Item Table: Mundane Restore MP, Mundane Buff Resistance, 50 cr.
+
