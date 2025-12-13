@@ -20,3 +20,10 @@ Rubber Bullets.  Melee.  Makes a basic physical attack.
 Tear Gas.  Ranged.  Cost: 7 MP, 1 AP.  Inflicts the Burn status on a single target with a successful status-inflicting roll.
 Injection.  Ally.  Cost: 5 MP, 1 AP.  Restores 4 HP to a single ally.
 Item Table: Mundane Restore Health, Mundane Inflict Burn, 10 cr.
+
+Spider Drone (Normal 1, Construct, Thunder)
+Statistics: HP 17/Shell 3, Mana 10, Initiative 3, Physical Attack 4, Magical Attack 2, Physical Defense 3, Magical Defense 1, Evasion 0, Resistance 6, Physical Accuracy 4, Magical Accuracy 0, Status Accuracy 0
+Pincers.  Melee.  Makes a basic physical attack.
+Autocannon.  Special.  Cost: 1 AP.  Makes a colorless, ranged physical attack against a single target.  The Spider Drone may only use this ability once per battle.
+Disarm.  Melee.  Cost: 1 AP.  Makes a colorless physical attack that, if successful, causes the target to drop their weapon.  The target must then spend 1 AP on its turn to pick it back up.
+Item Table: Mundane Buff Evasion, Mundane Scan, 10 cr.
